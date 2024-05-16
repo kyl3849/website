@@ -1,0 +1,12 @@
+#ncyu {
+  position: fixed;
+  border: solid 5px gold;
+  top: 50px;
+  right: 100px;
+}
+#ico {
+  width: 150px;
+}
+.content {
+  text-align: center;
+}
